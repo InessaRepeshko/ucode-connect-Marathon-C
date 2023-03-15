@@ -9,14 +9,17 @@
     <h2>
         <p align="center">
             <strong>Ucode Connect Marathon C</strong><br>
-            <small><i>Ucode Connect Marathon C is a Coding Bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C Programming Language was used for Game Development and Algorithms creation.</i></small>
+        </p>
+    </h2>
+    <h4>
+        <p align="center"><small><i>Ucode Connect Marathon C is a Coding Bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C Programming Language was used for Game Development and Algorithms creation.</i></small>
         </p>
         <p align="center">
             <a href="https://www.linkedin.com/in/inessarepeshko/" target="_blank">
                 <img src="https://user-images.githubusercontent.com/80609514/225084668-45ca7d52-59eb-4189-86d1-9808f73e4f38.png" height="450px">
             </a>
         </p>
-    </h2>
+    </h4>
 </head>
 
 <body>
