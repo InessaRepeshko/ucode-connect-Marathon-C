@@ -8,11 +8,11 @@
     </h1>
     <h2>
         <p align="center">
-            <strong>Ucode Connect Marathon C</strong><br>
+            <strong>ucode connect Marathon C</strong><br>
         </p>
     </h2>
     <h4>
-        <p align="center"><small><i>Ucode Connect Marathon C is a Coding Bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C Programming Language was used for Game Development and Algorithms creation.</i></small>
+        <p align="center"><small><i>ucode connect Marathon C is a coding bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C programming language was used for game development and algorithms creation.</i></small>
         </p>
         <p align="center">
             <a href="https://www.linkedin.com/in/inessarepeshko/" target="_blank">
