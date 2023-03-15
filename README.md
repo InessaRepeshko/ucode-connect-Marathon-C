@@ -1,17 +1,26 @@
 <head>
-    <p align="center">
-        <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://ucode.world/wp-content/themes/ucode/images/logo.svg" height="100px">
-        </a>
-        <h2 align="center">Ucode Connect Marathon C is a Coding Bootcamp lasting 6 weeks (Jan 2023 - Feb 2023) where C Programming Language was used for Game Development and Algorithms creation.</h2>
-        <a href="https://www.linkedin.com/in/inessarepeshko/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/80609514/225084668-45ca7d52-59eb-4189-86d1-9808f73e4f38.png" height="450px">
-        </a>
-    </p>
+    <h1>
+        <p align="center">
+            <a href="https://ucode.world/en/" target="_blank">
+                <img src="https://ucode.world/wp-content/themes/ucode/images/logo.svg" height="100px">
+            </a>
+        </p>
+    </h1>
+    <h2>
+        <p align="center">
+            <strong>Ucode Connect Marathon C</strong><br>
+            <small><i>Ucode Connect Marathon C is a Coding Bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C Programming Language was used for Game Development and Algorithms creation.</i></small>
+        </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/inessarepeshko/" target="_blank">
+                <img src="https://user-images.githubusercontent.com/80609514/225084668-45ca7d52-59eb-4189-86d1-9808f73e4f38.png" height="450px">
+            </a>
+        </p>
+    </h2>
 </head>
 
 <body>
-    <table width="100%" border="0" cellpadding="3" align="left">  
+    <table width="100%" border="0" cellpadding="1" align="center">  
         <tr>
             <th>Challenges</th>
             <th>Descriptions</th>
@@ -94,12 +103,7 @@
         </tr>
         <tr>
             <th><a href="https://github.com/InessaRepeshko/ucode-connect-Marathon-C-endgame" target="_blank">Endgame</a></th>
-            <th></th>
+            <th>Create your own game with the team.</th>
         </tr>
     </table>
 </body>
-
-<footer>
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
-<h4 align="center">Powered by Inessa Repeshko</h4>
-</footer>
