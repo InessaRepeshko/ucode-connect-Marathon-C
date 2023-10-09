@@ -1,19 +1,17 @@
 <head>
-    <h1>
+    <h3>
         <p align="center">
             <a href="https://ucode.world/en/" target="_blank">
-                <img src="https://ucode.world/wp-content/themes/ucode/images/logo.svg" height="100px">
+                <img src="https://github.com/InessaRepeshko/InessaRepeshko/blob/main/ucode/ucode_it_academy_logo.svg" height="100px">
             </a>
         </p>
-    </h1>
-    <h2>
-        <p align="center">
-            <strong>ucode connect Marathon C</strong><br>
-        </p>
-    </h2>
+    </h3>
+    <h3>
+        <p align="center">ucode connect Marathon C</p>
+    </h3>
     <h4>
         <p align="center"><small><i>ucode connect Marathon C is a coding bootcamp lasting 6 weeks (Jan 2023 - Feb 2023)<br>where C programming language was used for game development and algorithms creation.</i></small>
-        </p>
+        </p><br><br><br>
         <p align="center">
             <a href="https://www.linkedin.com/in/inessarepeshko/" target="_blank">
                 <img src="https://user-images.githubusercontent.com/80609514/225084668-45ca7d52-59eb-4189-86d1-9808f73e4f38.png" height="450px">
