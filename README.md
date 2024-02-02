@@ -168,7 +168,7 @@
         </p><br>
         <p align="center">
             <a href="https://www.linkedin.com/in/inessarepeshko/" target="timeline">
-                <img src="https://github.com/InessaRepeshko/ucode-connect-Marathon-C/blob/main/screens/marathon_timeline.jpg" height="800px">
+                <img src="https://github.com/InessaRepeshko/ucode-connect-Marathon-C/blob/main/screens/marathon_timeline.jpg" height="600px">
             </a>
         </p>
     </h3>
